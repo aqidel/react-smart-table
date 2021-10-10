@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-smart-table/static/js/main.950c8abd.chunk.js",
+    "main.js.map": "/react-smart-table/static/js/main.950c8abd.chunk.js.map",
+    "runtime-main.js": "/react-smart-table/static/js/runtime-main.0b5b981e.js",
+    "runtime-main.js.map": "/react-smart-table/static/js/runtime-main.0b5b981e.js.map",
+    "static/js/2.1217424d.chunk.js": "/react-smart-table/static/js/2.1217424d.chunk.js",
+    "static/js/2.1217424d.chunk.js.map": "/react-smart-table/static/js/2.1217424d.chunk.js.map",
+    "index.html": "/react-smart-table/index.html",
+    "static/js/2.1217424d.chunk.js.LICENSE.txt": "/react-smart-table/static/js/2.1217424d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b5b981e.js",
+    "static/js/2.1217424d.chunk.js",
+    "static/js/main.950c8abd.chunk.js"
+  ]
+}
